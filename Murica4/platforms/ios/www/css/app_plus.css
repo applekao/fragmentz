@@ -1,0 +1,56 @@
+
+
+#id-screen-home-button-range-beacons{
+/*background-color: #18c99d;*/
+font-family: "Helvetica Neue",Helvetica,Arial,Verdana;
+font-weight: lighter;
+color: #FFF;
+position: absolute;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+margin: auto;
+background-color: #72F394;
+height: 150px;
+width: 150px;
+border-top-right-radius: 49.5%;
+border-top-left-radius: 49.5%;
+border-bottom-right-radius: 49.5%;
+padding: 5%;
+font-size: 2em;
+text-align: center;
+}
+
+#RangeBack{
+/*background-color: #18c99d;*/
+font-family: "Helvetica Neue",Helvetica,Arial,Verdana;
+font-weight: lighter;
+color: #FFF;
+position: absolute;
+top: 18%;
+left: 7%;
+margin: auto;
+background-color: #24ccb2;
+height: 60px;
+width: 60px;
+border-top-right-radius: 49.5%;
+border-top-left-radius: 49.5%;
+border-bottom-left-radius: 49.50%;
+padding: 7%;
+font-size: 0.8em;
+text-align: center;
+}
+
+.displayBox{
+font-family: "Helvetica Neue",Helvetica,Arial,Verdana;
+font-weight: lighter;
+color:#BBB;
+width: 100%;
+margin: auto; 
+margin-top: 1px;
+min-height: 120px;
+font-size: 1em;
+text-align: right;
+border-bottom: solid 1px #BBB;
+}

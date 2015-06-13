@@ -1,0 +1,242 @@
+/*******Intro_CSS*******/
+
+body{
+	font-family: "HelveticaNeueUltraLight", "HelveticaNeue-Ultra-Light","HelveticaNeue-Light", "Helvetica Neue Light","Helvetica Neue" ,Helvetica, Arial, Verdana, sans-serif;
+}
+
+#AppBody{
+	height:100%;
+	margin:0px;
+}
+
+#PointContainer{
+    position: fixed;
+    top: auto;
+    height:1em;
+    padding: 0px;
+    bottom: 8%;
+    width: 100%;
+	text-align: center;
+}
+
+.IntroPoint{
+	display: inline-block;
+	background-color: #EEE;
+	height: 1em;
+	width: 1em;
+	margin: 0.8em;
+	border-radius: 51%;
+	-webkit-transition:background 0.25s ease-out;
+}
+
+#Point1{
+	background-color: #AAA;
+}
+
+
+.page{
+	background-color: transparent;
+    height:100%;
+    padding: 0px;
+}
+
+.IntroContent{
+	width: 100%;
+	height: 100%;
+	padding: 0px;
+}
+
+.IntroImg{
+	position: relative;
+	text-align: center;
+	width: 100%;
+	height:36%;
+	top:20%;
+	/*background-color: #FF9900;*/
+}
+
+#BlueToothImg{
+	background-image: url("../images/bleInner.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+@-webkit-keyframes BLEradio
+{
+
+0%   {
+	background-size: auto 100%;
+	opacity:0.6;
+}
+
+95% {
+	background-size: auto 140%;
+	opacity:0;
+}
+
+100% {
+	background-size: auto 100%;
+	opacity:0;
+}
+
+}
+
+@-webkit-keyframes BLEradio_
+{
+
+0%   {
+	background-size: auto 100%;
+	opacity:1;
+}
+
+80% {
+	background-size: auto 170%;
+	opacity:0;
+}
+
+100% {
+	background-size: auto 100%;
+	opacity:0;
+}
+
+}
+
+.ImageCore{
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+}
+
+#BleWave1{
+    background-size: auto 100%;
+	opacity:0;
+	background-image: url("../images/bleInner.png");
+	-webkit-animation: BLEradio 2.2s infinite;
+	-webkit-backface-visibility: hidden; 
+	background-position: center;
+}
+
+#BleWave2{
+	opacity:0;
+	background-image: url("../images/bleInner.png");
+	-webkit-animation: BLEradio_ 4.5s infinite;
+	background-size: auto 100%;
+	background-position: center;
+}
+
+.ImageCoreIn{
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.IntroText{
+	position: relative;
+	top:24%;
+	text-align: center;
+	padding: 0px;
+	color: #AAA;
+	font-size: 2.4em;
+	letter-spacing: 0.02em;
+	text-shadow:none;
+}
+
+.IntroChoice{
+	position: relative;
+	top:25%;
+	text-align: center;
+	padding: 0px;
+	color: rgb(10,140,250);
+	font-size: 1.8em;
+	letter-spacing: 0.07em;
+	text-shadow:none;
+}
+
+
+
+#user_head{
+	/*background-image: url("../images/user.svg");
+	background-size: auto 100%;*/
+	-webkit-mask-image: url("../images/user.svg");
+	-webkit-mask-size: auto 100%;
+	-webkit-mask-repeat:no-repeat;
+	-webkit-mask-position:center;
+	background-color: #d4f2f8;
+	opacity: 0;
+	-webkit-transition:opacity 1.8s ease-out;
+}
+
+@-webkit-keyframes headphoneAni
+{
+
+0%   {
+	background-size:10%;
+	opacity:0;
+}
+
+24%   {
+	opacity:1;
+}
+85%   {
+	opacity:0;
+}
+
+100% {
+	background-size:54%;
+	opacity:0;
+}
+}
+
+#wavAni{
+	height: 83%;
+	width: 100%;
+    background-image: url("../images/wav.svg");
+	background-size:10%;
+	background-repeat: no-repeat;
+	background-position:31% center;
+	-webkit-animation: headphoneAni 2s infinite;
+	-webkit-animation-timing-function: ease-in-out;
+}
+
+#PhoneSlider{
+	width: 100%;
+}
+
+#headphoneOut{
+	background-image: url("../images/headphoneback.svg");
+	background-size: auto 100%;
+	background-position-x:50%;
+	background-position-y:18px;
+	-webkit-transition:background-position 1.8s ease-in-out;
+}
+
+#headphoneIn{
+	background-image: url("../images/headphone.svg");
+	background-size: auto 100%;
+	background-position-x:50%;
+	background-position-y:18px;
+	-webkit-transition:background-position 1.8s ease-in-out;
+}
+
+#cellphoneOut{
+	background-image: url("../images/cellphone.svg");
+	background-size: auto 100%;
+	background-position-x:-180%;
+	background-position-y:18px;
+	-webkit-transition:background-position 1.8s ease-in-out;
+}
+
+#cellphoneIn{
+	background-image: url("../images/cellphone.svg");
+	background-size: auto 100%;
+	background-position-x:-180%;
+	background-position-y:18px;
+	-webkit-transition:background-position 1.8s ease-in-out;
+}
+
+
+#NoSign{
+}

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html style="height:100%;">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="viewport" content="width=device-width, user-scalable=no,
+			initial-scale=0.5, maximum-scale=0.5, minimum-scale=0.5" />
+        <script src="js/lib/jquery-2.1.1.min.js"></script>
+        <script src="js/lib/jquery.mobile-1.4.5.min.js"></script>
+        <script src="js/lib/p5.min.js"></script>
+        <script src="js/functions.js"></script>
+        <script src="js/lib/jquery.easing.1.3.js"></script>
+        <link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css" />
+        <link rel="stylesheet" href="css/IntroPart.css" />
+        <link href="css/SlideStyle.css" rel="stylesheet" type="text/css">
+        <script src="js/lib/jquery.ui.touch.js"></script>
+        
+
+		<title>Beacon Finder</title>
+
+	</head>
+	<body id="AppBody" >
+
+
+
+
+<!--___________________Control_Center_________________-->
+
+<div style="display:none;">
+<a id="toMain" href="#Main1" data-transition="fade">__</a>
+</div>
+
+
+<!--____________________Intro_Slide___________________-->
+
+
+<div data-role="page" class="page" id="Intro_1">
+
+<script>
+$(function(){
+	$('#slidePage').lyhucTouchPad({align:'center',pager:'#pager',showmousePoint:false});
+});
+</script>
+
+       <div class="wrap">
+       <div id="mousePoint"></div>
+       <div class="pageWrapper">
+        <div id="slidePage">
+            <div id="slidePageWrapper">
+
+                <div class="slidePageContent bgcolor1" >
+
+                  <div class="IntroContent" data-role="content">
+                  <div class="IntroImg" id="BlueToothImg">
+                  <div class="ImageCore" id="BleWave1">
+                  	<div class="ImageCoreIn" id="BleWave2"></div>
+                  </div>
+                  </div>
+                  <p class="IntroText">Turn Bluetooth On</p>
+                  </div>
+                </div>
+
+                <div class="slidePageContent bgcolor2" >
+                   <div class="IntroContent" data-role="content">
+                     <div class="IntroImg" id="PhoneSlider">
+                     <div class="ImageCore" id="headphoneOut">
+                     <div class="ImageCore" id="cellphoneOut">
+                     <div class="ImageCoreIn" id="user_head">
+                   	 <div class="ImageCore" id="headphoneIn">
+                   	 <div class="ImageCore" id="cellphoneIn">
+                     <div id="wavAni"></div>
+                     </div>
+                   	 </div>
+                     </div>
+                     </div>
+                     </div>
+                     </div>
+                     <p id="PhoneText" class="IntroText">Use Your Headphones</p>
+                     <p id="NoSign" class="IntroChoice">I don't have headphones</p>
+                   </div>
+                </div>
+
+                <div class="slidePageContent bgcolor3" >
+                	<div class="pad-10"></div>
+                </div>
+
+            </div>
+        </div>
+        </div>
+        </div>
+
+        <div id="PointContainer">
+        <div class="IntroPoint" id="Point1"></div>
+        <div class="IntroPoint" id="Point2"></div>
+        <!-- <div class="IntroPoint" id="Point3"></div> -->
+        </div>
+
+</div>
+
+
+<div  data-role="page" class="page" id="Main1">
+
+<div id="CloseBackground">
+</div>
+
+<div id="BlackOut">
+</div>
+
+<div id="searchCircle">
+</div>
+
+<div id="statusText">
+<div id="FetchStatus">   </div>
+<div id="pieceName">    </div>
+</div>
+
+<div id="Result" style="padding-top:260px; display:none;"></div>
+
+<div id="footer">
+<div id="MenuFan">
+<div class="itemCircle" id="item1">1</div>
+<div class="itemCircle" id="item2">2</div>
+<div class="itemCircle" id="item3">3</div>
+<div class="itemCircle" id="item4">4</div>
+<div class="itemCircle" id="item5">5</div>
+<div class="itemCircle" id="item6">6</div>
+<div class="itemCircle" id="item7">7</div>
+<div class="itemCircle" id="item8">8</div>
+<div class="itemCircle" id="item9">9</div>
+<!-- <div class="itemCircle" id="item10">10</div>
+<div class="itemCircle" id="item11">11</div>
+<div class="itemCircle" id="item12">12</div> -->
+</div>
+<div id="circle">
+  <div id="fakeCircle">
+
+  <div>
+</div>
+
+</div>
+
+<div style="display:none;">
+
+<div id="menuRotateController"></div>
+
+</div>
+		  <script type="text/javascript" src="cordova.js"></script>
+		 <script src="js/MediaPlay.js"></script>
+		 <script src="js/app.js"></script>
+		 <script src="js/screen-range-beacons.js"></script>
+
+		<!--script>
+
+		// // var hasReferrer = document.referrer && document.referrer != '';
+		// // if (!hasReferrer)
+		// // {
+  // //     		$('#id-screen-home-button-back').hide();
+  // //     	}
+
+		// // evothings.touch.onTap(
+		// // 	$('#id-screen-home-button-range-beacons')[0],
+		// // 	app.startRangingBeacons);
+		// // evothings.touch.onTap(
+		// // 	$('#id-screen-range-beacons div.style-button-back')[0],
+		// // 	app.stopRangingBeacons);
+
+		// var isAndroid =
+		// 	navigator.userAgent.match(/Android/) ||
+		// 	navigator.userAgent.match(/android/);
+		// if (isAndroid)
+		// {
+  //     		$('#id-screen-home-button-scan-beacons').hide();
+  //     		$('#id-screen-home-button-range-nearables').hide();
+  //     		$('#id-screen-home-button-monitor-nearables').hide();
+  //     		$('#id-screen-home-button-trigger-nearables').hide();
+  //     	}
+		</script-->
+
+</div>
+
+	</body>
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<script src="js/lib/main.min.js"></script>
+
+</html>

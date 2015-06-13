@@ -1,0 +1,468 @@
+2015-03-05 23:01:45.128 Hello World[4387:141803] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-05 23:01:45.130 Hello World[4387:141803] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:01:45.145 Hello World[4387:141803] Unlimited access to network resources
+2015-03-05 23:01:45.171 Hello World[4387:141803] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-05 23:01:46.085 Hello World[4387:141803] Resetting plugins due to page load.
+2015-03-05 23:01:46.308 Hello World[4387:141803] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/C5EE0AE4-EEB5-4499-B5D2-85B15E846190/Hello%20World.app/www/index.html
+2015-03-05 23:02:33.798 Hello World[4546:142759] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-05 23:02:33.799 Hello World[4546:142759] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:02:33.800 Hello World[4546:142759] Unlimited access to network resources
+2015-03-05 23:02:33.803 Hello World[4546:142759] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-05 23:02:34.093 Hello World[4546:142759] Resetting plugins due to page load.
+2015-03-05 23:02:34.175 Hello World[4546:142759] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/30D78D10-50A5-412E-B304-16BAE1353244/Hello%20World.app/www/index.html
+2015-03-09 11:19:37.594 Airblue[22360:1573253] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/D05E1161-9A2A-495B-8994-381E5F79B0B6/Library/Cookies/Cookies.binarycookies
+2015-03-09 11:19:37.732 Airblue[22360:1573253] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 11:19:37.733 Airblue[22360:1573253] Multi-tasking -> Device: YES, App: YES
+2015-03-09 11:19:37.736 Airblue[22360:1573253] Unlimited access to network resources
+2015-03-09 11:19:37.739 Airblue[22360:1573253] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 11:19:37.992 Airblue[22360:1573253] [CDVTimer][file] 9.923995ms
+2015-03-09 11:19:37.992 Airblue[22360:1573253] [CDVTimer][TotalPluginStartup] 10.168016ms
+2015-03-09 11:19:38.888 Airblue[22360:1573253] Resetting plugins due to page load.
+2015-03-09 11:19:39.232 Airblue[22360:1573253] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3997F78D-38B0-4CEA-B845-B1B718AFFE92/Airblue.app/www/index.html
+2015-03-09 11:19:39.318 Airblue[22360:1573253] Will use resource 'http://audio.ibeat.org/content/p1rj1s/p1rj1s_-_rockGuitar.mp3' from the Internet.
+2015-03-09 11:19:40.523 Airblue[22360:1573253] Playing audio sample 'http://audio.ibeat.org/content/p1rj1s/p1rj1s_-_rockGuitar.mp3'
+2015-03-09 11:19:41.766 Airblue[22360:1573253] THREAD WARNING: ['Media'] took '2447.229980' ms. Plugin should use a background thread.
+2015-03-09 11:19:49.814 Airblue[22360:1573253] THREAD WARNING: ['Media'] took '36.786133' ms. Plugin should use a background thread.
+2015-03-09 11:25:59.289 Airblue[22550:1576248] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/D79FF301-94E1-437D-AD26-74E7481BE1BF/Library/Cookies/Cookies.binarycookies
+2015-03-09 11:25:59.392 Airblue[22550:1576248] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-09 11:25:59.392 Airblue[22550:1576248] Multi-tasking -> Device: YES, App: YES
+2015-03-09 11:25:59.394 Airblue[22550:1576248] Unlimited access to network resources
+2015-03-09 11:25:59.397 Airblue[22550:1576248] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-09 11:25:59.612 Airblue[22550:1576248] [CDVTimer][file] 3.000975ms
+2015-03-09 11:25:59.612 Airblue[22550:1576248] [CDVTimer][TotalPluginStartup] 3.207028ms
+2015-03-09 11:25:59.715 Airblue[22550:1576248] Resetting plugins due to page load.
+2015-03-09 11:25:59.951 Airblue[22550:1576248] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/86CC1DB8-BFAE-4058-8546-72259BCE77A8/Airblue.app/www/index.html
+2015-03-09 11:26:00.029 Airblue[22550:1576248] Will attempt to use file resource 'source/suger.mp3'
+2015-03-09 11:26:00.030 Airblue[22550:1576248] Unknown resource 'source/suger.mp3'
+2015-03-09 11:26:11.497 Airblue[22550:1576248] THREAD WARNING: ['Media'] took '11467.806885' ms. Plugin should use a background thread.
+2015-03-09 11:26:11.503 Airblue[22550:1576305] void SendDelegateMessage(NSInvocation *): delegate (webView:decidePolicyForNavigationAction:request:frame:decisionListener:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-10 10:22:17.394 Airbluetwo[17633:153330] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/C4B279C9-EC3D-4CB6-811B-1F4C2D3651F6/Library/Cookies/Cookies.binarycookies
+2015-03-10 10:22:17.832 Airbluetwo[17633:153330] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 10:22:17.833 Airbluetwo[17633:153330] Multi-tasking -> Device: YES, App: YES
+2015-03-10 10:22:17.857 Airbluetwo[17633:153330] Unlimited access to network resources
+2015-03-10 10:22:17.875 Airbluetwo[17633:153330] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 10:22:18.378 Airbluetwo[17633:153330] [CDVTimer][file] 14.024019ms
+2015-03-10 10:22:18.378 Airbluetwo[17633:153330] [CDVTimer][TotalPluginStartup] 14.322996ms
+2015-03-10 10:22:18.787 Airbluetwo[17633:153330] Resetting plugins due to page load.
+2015-03-10 10:22:19.011 Airbluetwo[17633:153330] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/65D0AE6F-B914-4E4C-894B-04E0B0F4BAA3/Airbluetwo.app/www/index.html
+2015-03-10 10:22:21.264 Airbluetwo[17633:153330] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/65D0AE6F-B914-4E4C-894B-04E0B0F4BAA3/Airbluetwo.app/www/source/sugar.mp3' in the web folder.
+2015-03-10 10:22:21.407 Airbluetwo[17633:153330] Playing audio sample 'source/sugar.mp3'
+2015-03-10 10:22:22.662 Airbluetwo[17633:153330] THREAD WARNING: ['Media'] took '1398.505127' ms. Plugin should use a background thread.
+2015-03-10 10:22:22.672 Airbluetwo[17633:153330] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/65D0AE6F-B914-4E4C-894B-04E0B0F4BAA3/Airbluetwo.app/www/source/open.mp3' in the web folder.
+2015-03-10 10:22:22.680 Airbluetwo[17633:153330] Playing audio sample 'source/open.mp3'
+2015-03-10 10:22:22.686 Airbluetwo[17633:153330] THREAD WARNING: ['Media'] took '13.749756' ms. Plugin should use a background thread.
+2015-03-10 21:39:21.914 Airblue3.0[25156:346437] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/32A4BE53-192E-409B-953E-A28223B97801/Library/Cookies/Cookies.binarycookies
+2015-03-10 21:39:22.257 Airblue3.0[25156:346437] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 21:39:22.258 Airblue3.0[25156:346437] Multi-tasking -> Device: YES, App: YES
+2015-03-10 21:39:22.278 Airblue3.0[25156:346437] Unlimited access to network resources
+2015-03-10 21:39:22.296 Airblue3.0[25156:346437] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 21:39:22.752 Airblue3.0[25156:346437] [CDVTimer][file] 10.428011ms
+2015-03-10 21:39:22.752 Airblue3.0[25156:346437] [CDVTimer][TotalPluginStartup] 11.317968ms
+2015-03-10 21:39:23.085 Airblue3.0[25156:346437] Resetting plugins due to page load.
+2015-03-10 21:39:23.293 Airblue3.0[25156:346437] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3394948C-D3ED-41B8-8580-F025EDD713C0/Airblue3.0.app/www/index.html
+2015-03-10 21:39:58.912 Airblue3.0[25156:346553] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-10 21:40:21.771 Airblue3.0[25156:346437] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3394948C-D3ED-41B8-8580-F025EDD713C0/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-10 21:40:21.915 Airblue3.0[25156:346437] Playing audio sample 'source/sugar.mp3'
+2015-03-10 21:40:23.170 Airblue3.0[25156:346437] THREAD WARNING: ['Media'] took '1398.902100' ms. Plugin should use a background thread.
+2015-03-10 21:40:23.172 Airblue3.0[25156:346437] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3394948C-D3ED-41B8-8580-F025EDD713C0/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-10 21:40:23.179 Airblue3.0[25156:346437] Playing audio sample 'source/open.mp3'
+2015-03-10 21:40:23.189 Airblue3.0[25156:346437] THREAD WARNING: ['Media'] took '17.231934' ms. Plugin should use a background thread.
+2015-03-10 21:40:23.190 Airblue3.0[25156:346437] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3394948C-D3ED-41B8-8580-F025EDD713C0/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-10 21:40:23.251 Airblue3.0[25156:346437] Playing audio sample 'source/rise.mp3'
+2015-03-10 21:40:23.259 Airblue3.0[25156:346437] THREAD WARNING: ['Media'] took '69.023926' ms. Plugin should use a background thread.
+2015-03-10 21:44:32.666 Airblue3.0[25296:349031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/57B7CCF7-7BEA-496F-8553-6A132E0CCA24/Library/Cookies/Cookies.binarycookies
+2015-03-10 21:44:32.953 Airblue3.0[25296:349031] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 21:44:32.954 Airblue3.0[25296:349031] Multi-tasking -> Device: YES, App: YES
+2015-03-10 21:44:32.970 Airblue3.0[25296:349031] Unlimited access to network resources
+2015-03-10 21:44:32.983 Airblue3.0[25296:349031] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 21:44:33.370 Airblue3.0[25296:349031] [CDVTimer][file] 18.624008ms
+2015-03-10 21:44:33.370 Airblue3.0[25296:349031] [CDVTimer][TotalPluginStartup] 18.878996ms
+2015-03-10 21:44:33.690 Airblue3.0[25296:349031] Resetting plugins due to page load.
+2015-03-10 21:44:33.913 Airblue3.0[25296:349031] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/0D086226-3B5E-426E-9338-43DDDF03A9A0/Airblue3.0.app/www/index.html
+2015-03-10 21:45:03.910 Airblue3.0[25296:349031] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/0D086226-3B5E-426E-9338-43DDDF03A9A0/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-10 21:45:05.268 Airblue3.0[25296:349031] Playing audio sample 'source/sugar.mp3'
+2015-03-10 21:45:05.272 Airblue3.0[25296:349031] THREAD WARNING: ['Media'] took '1362.599121' ms. Plugin should use a background thread.
+2015-03-10 21:45:05.275 Airblue3.0[25296:349031] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/0D086226-3B5E-426E-9338-43DDDF03A9A0/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-10 21:45:05.284 Airblue3.0[25296:349031] Playing audio sample 'source/open.mp3'
+2015-03-10 21:45:05.296 Airblue3.0[25296:349031] THREAD WARNING: ['Media'] took '21.296875' ms. Plugin should use a background thread.
+2015-03-10 21:45:05.303 Airblue3.0[25296:349031] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/0D086226-3B5E-426E-9338-43DDDF03A9A0/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-10 21:45:05.361 Airblue3.0[25296:349031] Playing audio sample 'source/rise.mp3'
+2015-03-10 21:45:05.365 Airblue3.0[25296:349031] THREAD WARNING: ['Media'] took '62.029785' ms. Plugin should use a background thread.
+2015-03-10 21:47:13.381 Airblue3.0[25464:350842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/ECE8EC69-C58F-42FB-90D3-E38C56A749D8/Library/Cookies/Cookies.binarycookies
+2015-03-10 21:47:13.784 Airblue3.0[25464:350842] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 21:47:13.784 Airblue3.0[25464:350842] Multi-tasking -> Device: YES, App: YES
+2015-03-10 21:47:13.812 Airblue3.0[25464:350842] Unlimited access to network resources
+2015-03-10 21:47:13.829 Airblue3.0[25464:350842] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 21:47:14.294 Airblue3.0[25464:350842] [CDVTimer][file] 8.412004ms
+2015-03-10 21:47:14.295 Airblue3.0[25464:350842] [CDVTimer][TotalPluginStartup] 9.299040ms
+2015-03-10 21:47:14.656 Airblue3.0[25464:350842] Resetting plugins due to page load.
+2015-03-10 21:47:14.852 Airblue3.0[25464:350842] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/BDFC2CD9-7C52-4605-B805-27E9B936C984/Airblue3.0.app/www/index.html
+2015-03-10 21:47:47.291 Airblue3.0[25464:350842] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/BDFC2CD9-7C52-4605-B805-27E9B936C984/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-10 21:47:47.430 Airblue3.0[25464:350842] Playing audio sample 'source/sugar.mp3'
+2015-03-10 21:47:48.683 Airblue3.0[25464:350842] THREAD WARNING: ['Media'] took '1392.743164' ms. Plugin should use a background thread.
+2015-03-10 21:47:48.686 Airblue3.0[25464:350842] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/BDFC2CD9-7C52-4605-B805-27E9B936C984/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-10 21:47:48.694 Airblue3.0[25464:350842] Playing audio sample 'source/open.mp3'
+2015-03-10 21:47:48.703 Airblue3.0[25464:350842] THREAD WARNING: ['Media'] took '17.288330' ms. Plugin should use a background thread.
+2015-03-10 21:47:48.711 Airblue3.0[25464:350842] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/BDFC2CD9-7C52-4605-B805-27E9B936C984/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-10 21:47:48.773 Airblue3.0[25464:350842] Playing audio sample 'source/rise.mp3'
+2015-03-10 21:47:48.785 Airblue3.0[25464:350842] THREAD WARNING: ['Media'] took '73.268066' ms. Plugin should use a background thread.
+2015-03-10 21:50:08.850 Airblue3.0[25634:352968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/648BE75C-ACB8-48A0-9D1C-35DCDB93484B/Library/Cookies/Cookies.binarycookies
+2015-03-10 21:50:08.991 Airblue3.0[25634:352968] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-10 21:50:08.992 Airblue3.0[25634:352968] Multi-tasking -> Device: YES, App: YES
+2015-03-10 21:50:08.996 Airblue3.0[25634:352968] Unlimited access to network resources
+2015-03-10 21:50:08.999 Airblue3.0[25634:352968] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-10 21:50:09.234 Airblue3.0[25634:352968] [CDVTimer][file] 11.501014ms
+2015-03-10 21:50:09.234 Airblue3.0[25634:352968] [CDVTimer][TotalPluginStartup] 11.739969ms
+2015-03-10 21:50:09.431 Airblue3.0[25634:352968] Resetting plugins due to page load.
+2015-03-10 21:50:09.531 Airblue3.0[25634:352968] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3F7159E4-B40C-49FD-958A-ED44F88E44EA/Airblue3.0.app/www/index.html
+2015-03-10 21:50:31.649 Airblue3.0[25634:353132] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-10 21:51:06.809 Airblue3.0[25634:353132] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-03-10 21:51:14.721 Airblue3.0[25634:352968] THREAD WARNING: ['Media'] took '22.381104' ms. Plugin should use a background thread.
+2015-03-10 21:51:14.723 Airblue3.0[25634:352968] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3F7159E4-B40C-49FD-958A-ED44F88E44EA/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-10 21:51:16.401 Airblue3.0[25634:352968] Playing audio sample 'source/sugar.mp3'
+2015-03-10 21:51:16.413 Airblue3.0[25634:352968] THREAD WARNING: ['Media'] took '1690.375244' ms. Plugin should use a background thread.
+2015-03-10 21:51:16.415 Airblue3.0[25634:352968] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3F7159E4-B40C-49FD-958A-ED44F88E44EA/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-10 21:51:16.424 Airblue3.0[25634:352968] Playing audio sample 'source/open.mp3'
+2015-03-10 21:51:16.435 Airblue3.0[25634:352968] THREAD WARNING: ['Media'] took '19.807617' ms. Plugin should use a background thread.
+2015-03-10 21:51:16.442 Airblue3.0[25634:352968] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/3F7159E4-B40C-49FD-958A-ED44F88E44EA/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-10 21:51:16.501 Airblue3.0[25634:352968] Playing audio sample 'source/rise.mp3'
+2015-03-10 21:51:16.504 Airblue3.0[25634:352968] THREAD WARNING: ['Media'] took '62.308838' ms. Plugin should use a background thread.
+2015-03-17 12:16:09.024 Airblue3.0[65117:3299962] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Data/Application/8ABA41C7-54B1-4513-81AA-18AC2D17A8FB/Library/Cookies/Cookies.binarycookies
+2015-03-17 12:16:09.390 Airblue3.0[65117:3299962] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-17 12:16:09.391 Airblue3.0[65117:3299962] Multi-tasking -> Device: YES, App: YES
+2015-03-17 12:16:09.419 Airblue3.0[65117:3299962] Unlimited access to network resources
+2015-03-17 12:16:09.434 Airblue3.0[65117:3299962] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-17 12:16:09.865 Airblue3.0[65117:3299962] [CDVTimer][file] 14.680028ms
+2015-03-17 12:16:09.865 Airblue3.0[65117:3299962] [CDVTimer][TotalPluginStartup] 14.918983ms
+2015-03-17 12:16:10.339 Airblue3.0[65117:3299962] Resetting plugins due to page load.
+2015-03-17 12:16:14.997 Airblue3.0[65117:3299962] Finished load of: file:///Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/5596C021-6B84-453D-8807-71323B871AD3/Airblue3.0.app/www/index.html
+2015-03-17 12:16:23.117 Airblue3.0[65117:3299962] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/5596C021-6B84-453D-8807-71323B871AD3/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-17 12:16:24.306 Airblue3.0[65117:3299962] Playing audio sample 'source/sugar.mp3'
+2015-03-17 12:16:24.316 Airblue3.0[65117:3299962] THREAD WARNING: ['Media'] took '1199.748047' ms. Plugin should use a background thread.
+2015-03-17 12:16:24.321 Airblue3.0[65117:3299962] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/5596C021-6B84-453D-8807-71323B871AD3/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-17 12:16:24.329 Airblue3.0[65117:3299962] Playing audio sample 'source/open.mp3'
+2015-03-17 12:16:24.339 Airblue3.0[65117:3299962] THREAD WARNING: ['Media'] took '18.612061' ms. Plugin should use a background thread.
+2015-03-17 12:16:24.340 Airblue3.0[65117:3299962] Found resource '/Users/apple761028/Library/Developer/CoreSimulator/Devices/A3578152-6C2B-4867-AE51-F0B594EF9929/data/Containers/Bundle/Application/5596C021-6B84-453D-8807-71323B871AD3/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-17 12:16:24.400 Airblue3.0[65117:3299962] Playing audio sample 'source/rise.mp3'
+2015-03-17 12:16:24.409 Airblue3.0[65117:3299962] THREAD WARNING: ['Media'] took '68.758057' ms. Plugin should use a background thread.
+2015-03-27 03:30:55.350 Airblue3.0[13716:1743000] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/4052C2B9-2DC1-4773-BCE5-F923F2EF4A37/Library/Cookies/Cookies.binarycookies
+2015-03-27 03:30:55.671 Airblue3.0[13716:1743000] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-27 03:30:55.672 Airblue3.0[13716:1743000] Multi-tasking -> Device: YES, App: YES
+2015-03-27 03:30:55.688 Airblue3.0[13716:1743000] Unlimited access to network resources
+2015-03-27 03:30:55.700 Airblue3.0[13716:1743000] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-27 03:30:56.042 Airblue3.0[13716:1743000] [CDVTimer][file] 11.847019ms
+2015-03-27 03:30:56.042 Airblue3.0[13716:1743000] [CDVTimer][TotalPluginStartup] 12.006998ms
+2015-03-27 03:30:56.495 Airblue3.0[13716:1743000] Resetting plugins due to page load.
+2015-03-27 03:30:56.911 Airblue3.0[13716:1743000] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/2FCD7AD9-7FA5-432F-804B-8E9011327F39/Airblue3.0.app/www/index.html
+2015-03-27 03:33:36.957 Airblue3.0[13940:1745923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/4D55E38C-6197-46B5-AABB-D9230DCFF4E8/Library/Cookies/Cookies.binarycookies
+2015-03-27 03:33:37.041 Airblue3.0[13940:1745923] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-27 03:33:37.041 Airblue3.0[13940:1745923] Multi-tasking -> Device: YES, App: YES
+2015-03-27 03:33:37.043 Airblue3.0[13940:1745923] Unlimited access to network resources
+2015-03-27 03:33:37.046 Airblue3.0[13940:1745923] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-27 03:33:37.148 Airblue3.0[13940:1745923] [CDVTimer][file] 2.131999ms
+2015-03-27 03:33:37.149 Airblue3.0[13940:1745923] [CDVTimer][TotalPluginStartup] 2.411008ms
+2015-03-27 03:33:37.201 Airblue3.0[13940:1745923] Resetting plugins due to page load.
+2015-03-27 03:33:37.457 Airblue3.0[13940:1745923] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/81F35D86-F7FD-445B-8974-3D8569D61281/Airblue3.0.app/www/index.html
+2015-03-27 03:34:28.058 Airblue3.0[13940:1746499] Terminating since there is no system app.
+2015-03-27 03:34:45.979 Airblue3.0[14146:1747362] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/AA323EA9-964C-444C-A01E-96EB1C71812E/Library/Cookies/Cookies.binarycookies
+2015-03-27 03:34:46.054 Airblue3.0[14146:1747362] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-27 03:34:46.055 Airblue3.0[14146:1747362] Multi-tasking -> Device: YES, App: YES
+2015-03-27 03:34:46.057 Airblue3.0[14146:1747362] Unlimited access to network resources
+2015-03-27 03:34:46.061 Airblue3.0[14146:1747362] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-27 03:34:46.155 Airblue3.0[14146:1747362] [CDVTimer][file] 1.581967ms
+2015-03-27 03:34:46.155 Airblue3.0[14146:1747362] [CDVTimer][TotalPluginStartup] 1.756012ms
+2015-03-27 03:34:46.202 Airblue3.0[14146:1747362] Resetting plugins due to page load.
+2015-03-27 03:34:46.441 Airblue3.0[14146:1747362] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/555DC37D-C3A3-4B92-AB83-8C33EA15152E/Airblue3.0.app/www/index.html
+2015-03-27 03:42:15.529 Airblue3.0[15152:1753579] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/CBEC0D9C-0616-49FD-92F3-0C9454E6C505/Library/Cookies/Cookies.binarycookies
+2015-03-27 03:42:15.587 Airblue3.0[15152:1753579] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-27 03:42:15.587 Airblue3.0[15152:1753579] Multi-tasking -> Device: YES, App: YES
+2015-03-27 03:42:15.588 Airblue3.0[15152:1753579] Unlimited access to network resources
+2015-03-27 03:42:15.591 Airblue3.0[15152:1753579] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-27 03:42:15.663 Airblue3.0[15152:1753579] [CDVTimer][file] 1.761973ms
+2015-03-27 03:42:15.663 Airblue3.0[15152:1753579] [CDVTimer][TotalPluginStartup] 1.906037ms
+2015-03-27 03:42:15.731 Airblue3.0[15152:1753579] Resetting plugins due to page load.
+2015-03-27 03:42:16.006 Airblue3.0[15152:1753579] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/0DE409BF-46B9-4317-975B-83FF330FC6E2/Airblue3.0.app/www/index.html
+2015-03-27 03:42:34.360 Airblue3.0[15352:1754463] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/0C300742-15BB-4E7E-9148-DAD4E3CE383F/Library/Cookies/Cookies.binarycookies
+2015-03-27 03:42:34.435 Airblue3.0[15352:1754463] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-27 03:42:34.437 Airblue3.0[15352:1754463] Multi-tasking -> Device: YES, App: YES
+2015-03-27 03:42:34.439 Airblue3.0[15352:1754463] Unlimited access to network resources
+2015-03-27 03:42:34.443 Airblue3.0[15352:1754463] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-27 03:42:34.552 Airblue3.0[15352:1754463] [CDVTimer][file] 2.566040ms
+2015-03-27 03:42:34.552 Airblue3.0[15352:1754463] [CDVTimer][TotalPluginStartup] 2.819955ms
+2015-03-27 03:42:34.607 Airblue3.0[15352:1754463] Resetting plugins due to page load.
+2015-03-27 03:42:34.882 Airblue3.0[15352:1754463] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/B4EE0DDD-A4B2-4409-A43D-F3E2CA318F71/Airblue3.0.app/www/index.html
+2015-03-31 03:19:39.338 Airblue3.0[2012:163317] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/2502ABAF-C542-46ED-A24F-ACD1B79586C7/Library/Cookies/Cookies.binarycookies
+2015-03-31 03:19:39.581 Airblue3.0[2012:163317] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-31 03:19:39.581 Airblue3.0[2012:163317] Multi-tasking -> Device: YES, App: YES
+2015-03-31 03:19:39.597 Airblue3.0[2012:163317] Unlimited access to network resources
+2015-03-31 03:19:39.608 Airblue3.0[2012:163317] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 03:19:39.916 Airblue3.0[2012:163317] [CDVTimer][file] 7.920980ms
+2015-03-31 03:19:39.916 Airblue3.0[2012:163317] [CDVTimer][TotalPluginStartup] 8.082032ms
+2015-03-31 03:19:40.187 Airblue3.0[2012:163317] Resetting plugins due to page load.
+2015-03-31 03:19:40.648 Airblue3.0[2012:163317] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/5BF1D841-B2B4-41F6-B277-6F407FBF915A/Airblue3.0.app/www/index.html
+2015-03-31 03:19:40.713 Airblue3.0[2012:163317] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/5BF1D841-B2B4-41F6-B277-6F407FBF915A/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-31 03:19:40.958 Airblue3.0[2012:163317] Playing audio sample 'source/sugar.mp3'
+2015-03-31 03:19:40.969 Airblue3.0[2012:163317] THREAD WARNING: ['Media'] took '256.032227' ms. Plugin should use a background thread.
+2015-03-31 03:19:40.972 Airblue3.0[2012:163317] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/5BF1D841-B2B4-41F6-B277-6F407FBF915A/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-31 03:19:40.979 Airblue3.0[2012:163317] Playing audio sample 'source/open.mp3'
+2015-03-31 03:19:40.981 Airblue3.0[2012:163317] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/5BF1D841-B2B4-41F6-B277-6F407FBF915A/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-31 03:19:41.046 Airblue3.0[2012:163317] Playing audio sample 'source/rise.mp3'
+2015-03-31 03:19:41.051 Airblue3.0[2012:163317] THREAD WARNING: ['Media'] took '69.812012' ms. Plugin should use a background thread.
+2015-03-31 04:17:05.514 Airblue3.0[6994:205273] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/B9C13E6C-19E9-41F7-BBBD-22CB378625CB/Library/Cookies/Cookies.binarycookies
+2015-03-31 04:17:05.848 Airblue3.0[6994:205273] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-31 04:17:05.849 Airblue3.0[6994:205273] Multi-tasking -> Device: YES, App: YES
+2015-03-31 04:17:05.866 Airblue3.0[6994:205273] Unlimited access to network resources
+2015-03-31 04:17:05.888 Airblue3.0[6994:205273] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 04:17:06.264 Airblue3.0[6994:205273] [CDVTimer][file] 14.791012ms
+2015-03-31 04:17:06.264 Airblue3.0[6994:205273] [CDVTimer][TotalPluginStartup] 14.962971ms
+2015-03-31 04:17:06.548 Airblue3.0[6994:205273] Resetting plugins due to page load.
+2015-03-31 04:17:10.079 Airblue3.0[6994:205273] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/9092AEEB-09FB-4E55-B24E-9CF9547003BF/Airblue3.0.app/www/index.html
+2015-03-31 04:17:10.119 Airblue3.0[6994:205273] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/9092AEEB-09FB-4E55-B24E-9CF9547003BF/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-31 04:17:10.236 Airblue3.0[6994:205273] Playing audio sample 'source/sugar.mp3'
+2015-03-31 04:17:10.466 Airblue3.0[6994:205273] THREAD WARNING: ['Media'] took '347.218994' ms. Plugin should use a background thread.
+2015-03-31 04:17:10.471 Airblue3.0[6994:205273] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/9092AEEB-09FB-4E55-B24E-9CF9547003BF/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-31 04:17:10.478 Airblue3.0[6994:205273] Playing audio sample 'source/open.mp3'
+2015-03-31 04:17:10.489 Airblue3.0[6994:205273] THREAD WARNING: ['Media'] took '17.558105' ms. Plugin should use a background thread.
+2015-03-31 04:17:10.490 Airblue3.0[6994:205273] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/9092AEEB-09FB-4E55-B24E-9CF9547003BF/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-31 04:17:10.555 Airblue3.0[6994:205273] Playing audio sample 'source/rise.mp3'
+2015-03-31 04:17:10.558 Airblue3.0[6994:205273] THREAD WARNING: ['Media'] took '67.528076' ms. Plugin should use a background thread.
+2015-03-31 04:22:51.113 Airblue3.0[7245:209485] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/072DEEE5-9B04-434B-926F-CF56FB437F0B/Library/Cookies/Cookies.binarycookies
+2015-03-31 04:22:51.184 Airblue3.0[7245:209485] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-31 04:22:51.184 Airblue3.0[7245:209485] Multi-tasking -> Device: YES, App: YES
+2015-03-31 04:22:51.186 Airblue3.0[7245:209485] Unlimited access to network resources
+2015-03-31 04:22:51.188 Airblue3.0[7245:209485] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 04:22:51.263 Airblue3.0[7245:209485] [CDVTimer][file] 4.320979ms
+2015-03-31 04:22:51.263 Airblue3.0[7245:209485] [CDVTimer][TotalPluginStartup] 4.559994ms
+2015-03-31 04:22:51.365 Airblue3.0[7245:209485] Resetting plugins due to page load.
+2015-03-31 04:22:54.703 Airblue3.0[7245:209485] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/AFBDD992-A0EB-4930-9A27-8D9305D8A438/Airblue3.0.app/www/index.html
+2015-03-31 04:22:54.739 Airblue3.0[7245:209485] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/AFBDD992-A0EB-4930-9A27-8D9305D8A438/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-31 04:22:54.791 Airblue3.0[7245:209485] Playing audio sample 'source/sugar.mp3'
+2015-03-31 04:22:54.812 Airblue3.0[7245:209485] THREAD WARNING: ['Media'] took '72.796143' ms. Plugin should use a background thread.
+2015-03-31 04:22:54.819 Airblue3.0[7245:209485] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/AFBDD992-A0EB-4930-9A27-8D9305D8A438/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-31 04:22:54.826 Airblue3.0[7245:209485] Playing audio sample 'source/open.mp3'
+2015-03-31 04:22:54.835 Airblue3.0[7245:209485] THREAD WARNING: ['Media'] took '15.676025' ms. Plugin should use a background thread.
+2015-03-31 04:22:54.836 Airblue3.0[7245:209485] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/AFBDD992-A0EB-4930-9A27-8D9305D8A438/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-31 04:22:54.901 Airblue3.0[7245:209485] Playing audio sample 'source/rise.mp3'
+2015-03-31 04:22:54.904 Airblue3.0[7245:209485] THREAD WARNING: ['Media'] took '68.719971' ms. Plugin should use a background thread.
+2015-03-31 04:23:11.945 Airblue3.0[7245:209495] Terminating since there is no system app.
+2015-03-31 04:23:56.403 Airblue3.0[7447:210715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/604295EC-287F-4E82-BA32-2985981C7EBF/Library/Cookies/Cookies.binarycookies
+2015-03-31 04:23:56.465 Airblue3.0[7447:210715] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-31 04:23:56.465 Airblue3.0[7447:210715] Multi-tasking -> Device: YES, App: YES
+2015-03-31 04:23:56.468 Airblue3.0[7447:210715] Unlimited access to network resources
+2015-03-31 04:23:56.470 Airblue3.0[7447:210715] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 04:23:56.546 Airblue3.0[7447:210715] [CDVTimer][file] 1.556993ms
+2015-03-31 04:23:56.546 Airblue3.0[7447:210715] [CDVTimer][TotalPluginStartup] 1.734972ms
+2015-03-31 04:23:56.586 Airblue3.0[7447:210715] Resetting plugins due to page load.
+2015-03-31 04:24:00.447 Airblue3.0[7447:210715] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/E9B539D6-BB41-408C-A7BC-31A283D3D888/Airblue3.0.app/www/index.html
+2015-03-31 04:24:00.491 Airblue3.0[7447:210715] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/E9B539D6-BB41-408C-A7BC-31A283D3D888/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-31 04:24:00.754 Airblue3.0[7447:210715] Playing audio sample 'source/sugar.mp3'
+2015-03-31 04:24:00.760 Airblue3.0[7447:210715] THREAD WARNING: ['Media'] took '268.476074' ms. Plugin should use a background thread.
+2015-03-31 04:24:00.765 Airblue3.0[7447:210715] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/E9B539D6-BB41-408C-A7BC-31A283D3D888/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-31 04:24:00.773 Airblue3.0[7447:210715] Playing audio sample 'source/open.mp3'
+2015-03-31 04:24:00.783 Airblue3.0[7447:210715] THREAD WARNING: ['Media'] took '18.592285' ms. Plugin should use a background thread.
+2015-03-31 04:24:00.786 Airblue3.0[7447:210715] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/E9B539D6-BB41-408C-A7BC-31A283D3D888/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-31 04:24:00.853 Airblue3.0[7447:210715] Playing audio sample 'source/rise.mp3'
+2015-03-31 04:24:00.864 Airblue3.0[7447:210715] THREAD WARNING: ['Media'] took '77.726074' ms. Plugin should use a background thread.
+2015-03-31 04:25:06.484 Airblue3.0[7655:212068] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Data/Application/17DD3202-28DE-4640-A210-1A262E710485/Library/Cookies/Cookies.binarycookies
+2015-03-31 04:25:06.564 Airblue3.0[7655:212068] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-31 04:25:06.564 Airblue3.0[7655:212068] Multi-tasking -> Device: YES, App: YES
+2015-03-31 04:25:06.566 Airblue3.0[7655:212068] Unlimited access to network resources
+2015-03-31 04:25:06.569 Airblue3.0[7655:212068] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 04:25:06.639 Airblue3.0[7655:212068] [CDVTimer][file] 1.437962ms
+2015-03-31 04:25:06.639 Airblue3.0[7655:212068] [CDVTimer][TotalPluginStartup] 1.580000ms
+2015-03-31 04:25:06.693 Airblue3.0[7655:212068] Resetting plugins due to page load.
+2015-03-31 04:25:09.328 Airblue3.0[7655:212068] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/CE422C22-87FA-4186-8D74-CA6873EF74A3/Airblue3.0.app/www/index.html
+2015-03-31 04:25:09.366 Airblue3.0[7655:212068] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/CE422C22-87FA-4186-8D74-CA6873EF74A3/Airblue3.0.app/www/source/sugar.mp3' in the web folder.
+2015-03-31 04:25:09.636 Airblue3.0[7655:212068] Playing audio sample 'source/sugar.mp3'
+2015-03-31 04:25:09.647 Airblue3.0[7655:212068] THREAD WARNING: ['Media'] took '281.408936' ms. Plugin should use a background thread.
+2015-03-31 04:25:09.656 Airblue3.0[7655:212068] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/CE422C22-87FA-4186-8D74-CA6873EF74A3/Airblue3.0.app/www/source/open.mp3' in the web folder.
+2015-03-31 04:25:09.664 Airblue3.0[7655:212068] Playing audio sample 'source/open.mp3'
+2015-03-31 04:25:09.670 Airblue3.0[7655:212068] THREAD WARNING: ['Media'] took '14.764160' ms. Plugin should use a background thread.
+2015-03-31 04:25:09.672 Airblue3.0[7655:212068] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/2F7ED8B9-3371-4CA4-B194-F07659871E5D/data/Containers/Bundle/Application/CE422C22-87FA-4186-8D74-CA6873EF74A3/Airblue3.0.app/www/source/rise.mp3' in the web folder.
+2015-03-31 04:25:09.737 Airblue3.0[7655:212068] Playing audio sample 'source/rise.mp3'
+2015-03-31 04:25:09.740 Airblue3.0[7655:212068] THREAD WARNING: ['Media'] took '68.156006' ms. Plugin should use a background thread.
+2015-03-31 04:25:15.151 Airblue3.0[7655:212084] Terminating since there is no system app.
+2015-03-31 04:25:15.161 Airblue3.0[7655:212093] Communications error: <OS_xpc_error: <error: 0x30d35f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x30d383c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-17 03:23:40.922 Airblue3.0[17402:310888] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Data/Application/861FF030-FA83-47F2-A32A-C2F9C89A62A9/Library/Cookies/Cookies.binarycookies
+2015-04-17 03:23:41.190 Airblue3.0[17402:310888] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-17 03:23:41.190 Airblue3.0[17402:310888] Multi-tasking -> Device: YES, App: YES
+2015-04-17 03:23:41.205 Airblue3.0[17402:310888] Unlimited access to network resources
+2015-04-17 03:23:41.217 Airblue3.0[17402:310888] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-17 03:23:41.519 Airblue3.0[17402:310888] [CDVTimer][file] 8.412004ms
+2015-04-17 03:23:41.519 Airblue3.0[17402:310888] [CDVTimer][TotalPluginStartup] 9.299994ms
+2015-04-17 03:23:41.957 Airblue3.0[17402:310888] Resetting plugins due to page load.
+2015-04-17 03:23:42.422 Airblue3.0[17402:310888] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Bundle/Application/2B756C4B-41F9-40FF-8713-7DAC0F016828/Airblue3.0.app/www/index.html
+2015-04-17 03:23:42.505 Airblue3.0[17402:310888] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Bundle/Application/2B756C4B-41F9-40FF-8713-7DAC0F016828/Airblue3.0.app/www/source/telephone.mp3' in the web folder.
+2015-04-17 03:23:42.697 Airblue3.0[17402:310888] Playing audio sample 'source/telephone.mp3'
+2015-04-17 03:23:42.921 Airblue3.0[17402:310888] THREAD WARNING: ['Media'] took '416.098877' ms. Plugin should use a background thread.
+2015-04-17 03:23:42.922 Airblue3.0[17402:310888] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Bundle/Application/2B756C4B-41F9-40FF-8713-7DAC0F016828/Airblue3.0.app/www/source/girl.mp3' in the web folder.
+2015-04-17 03:23:42.931 Airblue3.0[17402:310888] Playing audio sample 'source/girl.mp3'
+2015-04-17 03:23:42.932 Airblue3.0[17402:310888] THREAD WARNING: ['Media'] took '10.190918' ms. Plugin should use a background thread.
+2015-04-17 03:23:42.935 Airblue3.0[17402:310888] Found resource '/Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Bundle/Application/2B756C4B-41F9-40FF-8713-7DAC0F016828/Airblue3.0.app/www/source/universe.mp3' in the web folder.
+2015-04-17 03:23:42.943 Airblue3.0[17402:310888] Playing audio sample 'source/universe.mp3'
+2015-04-17 03:23:42.956 Airblue3.0[17402:310888] THREAD WARNING: ['Media'] took '20.791992' ms. Plugin should use a background thread.
+2015-04-29 02:47:37.806 Fragments[26797:411801] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Data/Application/5F1DB997-9846-4A77-84B2-53A88B968DED/Library/Cookies/Cookies.binarycookies
+2015-04-29 02:47:38.238 Fragments[26797:411801] Apache Cordova native platform version 3.7.0 is starting.
+2015-04-29 02:47:38.239 Fragments[26797:411801] Multi-tasking -> Device: YES, App: YES
+2015-04-29 02:47:38.256 Fragments[26797:411801] Unlimited access to network resources
+2015-04-29 02:47:38.277 Fragments[26797:411801] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-29 02:47:38.663 Fragments[26797:411801] [CDVTimer][file] 10.618985ms
+2015-04-29 02:47:38.664 Fragments[26797:411801] [CDVTimer][TotalPluginStartup] 11.493981ms
+2015-04-29 02:47:39.121 Fragments[26797:411801] Resetting plugins due to page load.
+2015-04-29 02:47:39.514 Fragments[26797:411801] Finished load of: file:///Users/rubin/Library/Developer/CoreSimulator/Devices/DD6433EB-891A-4C67-A939-D8A4E56FBE0E/data/Containers/Bundle/Application/5712E3A8-43E5-476D-98EC-9000AB570C8A/Fragments.app/www/index.html
